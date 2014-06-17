@@ -1,6 +1,6 @@
 # Fugly Language Syntax
 
-> Sublime Text (2 and 3) syntax highlight for Fugly
+> Sublime Text (2 and 3) syntax highlight for [Fugly](https://github.com/pablo-cabrera/fugly-js)
 
 ## How to install
 
