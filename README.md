@@ -16,4 +16,4 @@ Coming soon
 
 ## License
 
-[MIT](https://github.com/diogomoretti/MIT-License)
+[MIT](https://github.com/diogomoretti/MITLicense)
