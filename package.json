@@ -1,5 +1,5 @@
 {
-  "name": "fugly-syntax-hightlight",
+  "name": "fugly-syntax-highlight",
   "version": "1.0.0",
   "description": "Fugly Syntax Highlight for Sublime Text",
   "main": "index.js",
