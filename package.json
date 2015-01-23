@@ -1,0 +1,19 @@
+{
+  "name": "fugly-syntax-hightlight",
+  "version": "1.0.0",
+  "description": "Fugly Syntax Highlight for Sublime Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diogomoretti/fugly.tmLanguage.git"
+  },
+  "author": "Diogo Moretti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogomoretti/fugly.tmLanguage/issues"
+  },
+  "homepage": "https://github.com/diogomoretti/fugly.tmLanguage"
+}
