@@ -6,6 +6,8 @@
 
 ### Package Control
 
+<img src="./installation-via-package-control.gif" align="right" width="300">
+
 1. Type `[⌘/Control] + Shift + P`
 2. Go to `Install Package`
 3. Search by `Fugly Syntax Highlight`
